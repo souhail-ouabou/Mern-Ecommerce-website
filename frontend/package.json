@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://east-clothing-back.onrender.com",
+  "proxy": "https://east-clothing-back.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
