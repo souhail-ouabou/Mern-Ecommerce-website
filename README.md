@@ -1,5 +1,5 @@
 # Mern-Ecommerce-website 
-[![Generic badge](https://img.shields.io/badge/Responsive-Yes-<COLOR>.svg)](https://eastclothing.herokuapp.com/) 
+[![Generic badge](https://img.shields.io/badge/Responsive-Yes-<COLOR>.svg)](https://east-clothing-mffd.onrender.com/) 
 ## E-Commerce Website Using MERN STACK. 
 
 
@@ -13,12 +13,15 @@
  5. Chakra Ui  
  6. Redux  
 
-Here is a Demo : [Demo](https://eastclothing.herokuapp.com/)
+Here is a Demo : [Demo](https://east-clothing-mffd.onrender.com/)
 
 If you are logged in as an admin a button in navbar will show up which gives you controll on your products,users and orders.
 
 - The button :
-<img width = "800" src="https://i.imgur.com/a7YFo86.png"/>  
+<img width = "800" src="https://i.imgur.com/a7YFo86.png"/>
+<img width = "800" src="https://i.imgur.com/DhgbSmi.jpg"/>
+<img width = "800" src="https://imgur.com/aLWHVB3.jpg"/>
+
 
 - Products :
 <img width = "800" src="https://i.imgur.com/AMrzaZW.png"/>
